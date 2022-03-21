@@ -4,8 +4,6 @@ GET /api/exchange-rates/{currencyCode} - returns currency exchange rate PLN to {
 
 GET /api/gold-price/average - returns average gold price for the last 14 business days
 
-Please upload your project to GitHub repository and share link with us. We're waiting for your response 2 weeks.
-
 Hints:
 * http://api.nbp.pl/en.html
 * https://start.spring.io/
